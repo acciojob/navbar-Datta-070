@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+.navbar{
+	background-color:#6e072d;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	margin:none;
+	border:none;
+}
+ul{
+	list-style-type:none;
+	font-size:18px;
+	display:flex;
+	justify-content:center;
+	margin:none;
+	padding:none;
+}
+.ul1{
+	display:flex;
+	gap:15px;
+}
+.ul2{
+	display:flex;
+	gap:15px;
+}
+li{
+	padding-top:18px;
+	padding-bottom:18px;
+	padding-left:27px;
+	padding-right:27px;
+}
+.right{
+	border-right:2px solid white;
+}
